@@ -1,0 +1,14 @@
+{
+  "client_name": "Sample Client",
+  "as_of_note": "Replace this file for each client. Keep symbols in Yahoo Finance format, e.g., BRK-B.",
+  "holdings": [
+    {"symbol": "MSFT", "name": "Microsoft", "quantity": 40, "bought_at": 390.00},
+    {"symbol": "NVDA", "name": "Nvidia", "quantity": 120, "bought_at": 118.00},
+    {"symbol": "AAPL", "name": "Apple", "quantity": 55, "bought_at": 190.00},
+    {"symbol": "AMZN", "name": "Amazon", "quantity": 70, "bought_at": 175.00},
+    {"symbol": "GOOGL", "name": "Alphabet", "quantity": 60, "bought_at": 170.00},
+    {"symbol": "META", "name": "Meta Platforms", "quantity": 25, "bought_at": 475.00},
+    {"symbol": "AVGO", "name": "Broadcom", "quantity": 30, "bought_at": 165.00},
+    {"symbol": "JPM", "name": "JPMorgan Chase", "quantity": 35, "bought_at": 210.00}
+  ]
+}
